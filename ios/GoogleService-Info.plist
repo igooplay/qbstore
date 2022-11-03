@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>528852790709-2837kb8vdb4d9nublrclq0tdicpt4fnt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.528852790709-2837kb8vdb4d9nublrclq0tdicpt4fnt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>528852790709-0k5hc5f51abtp70pmjvhofeng5bl7mqc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrZreGN_BSkorxnhXx_br8Obf2XZishsQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>528852790709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qbanca.store</string>
+	<key>PROJECT_ID</key>
+	<string>voubedelivery</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voubedelivery.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:528852790709:ios:44cc86390336733cbc3dfc</string>
+	<key>DATABASE_URL</key>
+	<string>https://voubedelivery-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

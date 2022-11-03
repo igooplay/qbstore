@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "528852790709",
+    "firebase_url": "https://voubedelivery-default-rtdb.firebaseio.com",
+    "project_id": "voubedelivery",
+    "storage_bucket": "voubedelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528852790709:android:aa4c5304c55c7524bc3dfc",
+        "android_client_info": {
+          "package_name": "com.qbanca.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN__Z7wqsmhVs5v4rNPNyC_k2NMmaf4qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528852790709-d8t9hrfsglc19iqnr3lkgpdofko546od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528852790709-2837kb8vdb4d9nublrclq0tdicpt4fnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qbanca.voube"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528852790709:android:a5356fd2c4cf056bbc3dfc",
+        "android_client_info": {
+          "package_name": "com.qbanca.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN__Z7wqsmhVs5v4rNPNyC_k2NMmaf4qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528852790709-d8t9hrfsglc19iqnr3lkgpdofko546od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528852790709-2837kb8vdb4d9nublrclq0tdicpt4fnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qbanca.voube"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528852790709:android:105a7bce116d9875bc3dfc",
+        "android_client_info": {
+          "package_name": "com.qbanca.voube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN__Z7wqsmhVs5v4rNPNyC_k2NMmaf4qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528852790709-d8t9hrfsglc19iqnr3lkgpdofko546od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528852790709-2837kb8vdb4d9nublrclq0tdicpt4fnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qbanca.voube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
