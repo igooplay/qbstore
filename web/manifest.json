@@ -1,6 +1,6 @@
 {
-    "name": "Qbanca Lojas",
-    "short_name": "Qbanca Lojas",
+    "name": "Qbanca Loja",
+    "short_name": "Qbanca Loja",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

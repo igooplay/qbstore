@@ -2,10 +2,10 @@ import 'package:sixam_mart_store/data/model/response/language_model.dart';
 import 'package:sixam_mart_store/util/images.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'Qbanca Lojas';
+  static const String APP_NAME = 'Qbanca Loja';
   static const double APP_VERSION = 1.6;
 
-  static const String BASE_URL = 'https://admin.qbanca.com.br';
+  static const String BASE_URL = 'https://site.qbanca.com.br';
   static const String CONFIG_URI = '/api/v1/config';
   static const String LOGIN_URI = '/api/v1/auth/vendor/login';
   static const String FORGET_PASSWORD_URI = '/api/v1/auth/vendor/forgot-password';
