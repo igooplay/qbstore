@@ -52,9 +52,9 @@ class BankController extends GetxController implements GetxService {
         WithdrawModel _withdrawModel = WithdrawModel.fromJson(withdraw);
         _withdrawList.add(_withdrawModel);
         _allWithdrawList.add(_withdrawModel);
-        if(_withdrawModel.status == 'Pending') {
+        if(_withdrawModel.status == 'Pendente') {
           _pendingWithdraw = _pendingWithdraw + _withdrawModel.amount;
-        }else if(_withdrawModel.status == 'Approved') {
+        }else if(_withdrawModel.status == 'Aprovado') {
           _withdrawn = _withdrawn + _withdrawModel.amount;
         }
       });
