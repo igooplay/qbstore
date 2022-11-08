@@ -1,4 +1,4 @@
-# 6amMart Store App
+# Store App
 
 
 
