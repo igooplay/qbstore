@@ -125,7 +125,7 @@
   "add_bank": "Adicionar banco",
   "edit": "Editar",
   "currently_no_bank_account_added": "Atualmente você ainda não adicionou nenhuma conta bancária. Por favor, adicione uma conta bancária",
-  "wallet_amount": "Valor do Saque",
+  "wallet_amount": "Valor disponível para Saque",
   "withdraw": "Retirada",
   "pending_withdraw": "Retirada pendente",
   "withdrawn": "Retirado",
